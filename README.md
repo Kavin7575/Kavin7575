@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... coding, App development, UI UX designing, and full-stack development
 - 🌱 I’m currently learning ...Flutter App development
 - 💞️ I’m looking to collaborate on ... App development and full-stack development
-- 📫 How to reach me ...kavinmohan7777@gmail.com
+- 📫 How to reach me ... kavinmohan7777@gmail.com
 - ⚡ Fun fact: ... while(coding){ if(success){code_next}....else{code_again} }
 
 <!---
